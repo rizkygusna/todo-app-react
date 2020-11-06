@@ -1,4 +1,4 @@
-## This is a simple todo app
+## Simple Todo App
 
 In the project directory, you can run:
 
